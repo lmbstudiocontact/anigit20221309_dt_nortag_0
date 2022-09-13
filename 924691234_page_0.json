@@ -1,0 +1,76 @@
+{
+  "id_nortag": "924691234",
+  "index_page": 0,
+  "name_nortag": "Battlefield",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "1879206489",
+  "hc_lt_data_img": "149920942",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "854343416",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "109656516",
+      "name_alb": "Original 3",
+      "total_img": 1138
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-365719385",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1144048391",
+      "id_img": "Original_742754_crop2608_149290913",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxz3XUNYmd37qD+inHz/gn2+wxA3rTaTpSGTd9GPUKoZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifxz3XUNYmd37qD+inHz/gnss3aNgsaEnNC0IboxtYnJ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "109656516"
+      ],
+      "lt_id_sptag": [
+        "-120608061",
+        "-1811357781",
+        "-1364967268",
+        "-326078627",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id_nortag": "-1679289722",
+  "index_page": 0,
+  "name_nortag": "Concert",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-189659886",
+  "hc_lt_data_img": "1859354249",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-155511217",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-1308124165",
+      "name_alb": "BanG Dream",
+      "total_img": 29
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1016803970",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "524379022",
+      "id_img": "BanGDream_921015_crop2608_-1883436752",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickUHhWtLVNLP6ky8KYH8nus0xb52UudD7lLMP+XXm6qZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickUHhWtLVNLP6ky8KYH8nuNvtctwoKizzUcdqeSyxYQZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1308124165"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "-326078627",
+        "-369535327",
+        "71899412",
+        "635372596",
+        "-143162340",
+        "-1783086774",
+        "1911583362",
+        "-298695861",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-566931210",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "2026918608",
+      "id_img": "Original_954438_crop2608_-515627615",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0Ik26JD2A3qxNb/fqeH84v3Ycite3uFwQhVaRJzChfJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0Ik26JD2A3qxNb/fqeH84MpQFOIse4LvdVN1T8PBuCZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "154003721",
+        "-326078627",
+        "1600730941",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "635372596",
+      "key_sptag": "isGirlEyesGreyAnime",
+      "name_sptag": "Girls Eyes Grey",
+      "total": 2483
+    },
+    {
+      "id_sptag": "-143162340",
+      "key_sptag": "isGirlHairRedAnime",
+      "name_sptag": "Girls Hair Red",
+      "total": 3081
+    },
+    {
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-298695861",
+      "key_sptag": "isGirlWeddingAnime",
+      "name_sptag": "Girls Wedding",
+      "total": 2328
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id_nortag": "1768228815",
+  "index_page": 0,
+  "name_nortag": "Bodysuit",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "32626108",
+  "hc_lt_data_img": "-1619621256",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    },
+    {
+      "id_alb": "1437581393",
+      "name_alb": "Tengen Toppa Gurren Lagann",
+      "total_img": 25
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1407298290",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "TengenToppaGurrenLagann_60031_crop2608_120872736",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0mQK/+dnp5vvhYDDi4MIf6tZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0m8nJArweXkDMklrtbkCMld5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "1437581393"
+      ]
+    }
+  ]
+}

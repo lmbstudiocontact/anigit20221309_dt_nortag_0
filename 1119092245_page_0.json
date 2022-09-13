@@ -1,0 +1,91 @@
+{
+  "id_nortag": "1119092245",
+  "index_page": 0,
+  "name_nortag": "Birdcage",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-858541832",
+  "hc_lt_data_img": "-1367785298",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-263540222",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-2081278123",
+      "name_alb": "Vocaloid",
+      "total_img": 1338
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-566931210",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1464788864",
+      "id_img": "Girl_839486_crop2608_1525553079",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGoXeJ+xrisvQiKKIlWcOi8d0LizIBesjY7qlFWYmAGpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGoXeJ+xrisvQiKKIlWcOiwwJLYZg7XUxpb0SXP7VZO5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-326078627",
+        "-1743477818",
+        "1129122964",
+        "-143534545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "569355733",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1805683767",
+      "id_img": "Vocaloid_766905_crop2608_-611886685",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUD3PXVSoQjIW19fZE5uOjF6CMN4hq5m63XQeW3ufa+pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUD3PXVSoQjIW19fZE5uOjukGE4JyUp+lbeYGpxrdTi5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2081278123",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-326078627",
+        "-143534545",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}

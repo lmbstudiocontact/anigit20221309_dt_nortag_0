@@ -1,0 +1,117 @@
+{
+  "id_nortag": "1780740401",
+  "index_page": 0,
+  "name_nortag": "Glitter",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "211556895",
+  "hc_lt_data_img": "1954262617",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-264510950",
+  "lt_alb": [
+    {
+      "id_alb": "-2077965603",
+      "name_alb": "Scenery Arts",
+      "total_img": 2036
+    },
+    {
+      "id_alb": "1443687921",
+      "name_alb": "Original",
+      "total_img": 1020
+    },
+    {
+      "id_alb": "-2081278123",
+      "name_alb": "Vocaloid",
+      "total_img": 1338
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1913686522",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "Original_696829_crop2608_-1524829652",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiessXtOUmGEwamYrtg5TEpzX1vFelSoY37rDMqU8wDXAJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiessXtOUmGEwamYrtg5TEpzk41hkCr+cRai3R8hFe9uKZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2077965603",
+        "1443687921"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1913686522",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "Original_696829_crop2608_-256098138",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidi0x+HZ5DkdpRzE/2ZA4ej2y7ysNRQ58qFEoumIRsugpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidi0x+HZ5DkdpRzE/2ZA4ejHWrxloTwXqGOg+7tlF1yX5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2077965603",
+        "1443687921"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "569355733",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-228430302",
+      "id_img": "Vocaloid_691964_crop2608_1973094117",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDaVnD5M3cuZ7zrH7+uM/QHAkMYGtnVT5UsODYzYQKXJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDaVnD5M3cuZ7zrH7+uM/QWJgYVOfF8RdNGieMA6f/3pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2081278123",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-326078627",
+        "-143534545",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    }
+  ]
+}

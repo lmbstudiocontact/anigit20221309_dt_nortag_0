@@ -1,0 +1,95 @@
+{
+  "id_nortag": "-1674150464",
+  "index_page": 0,
+  "name_nortag": "Costume",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "1529547396",
+  "hc_lt_data_img": "-148176943",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-64092986",
+  "lt_alb": [
+    {
+      "id_alb": "-303570153",
+      "name_alb": "My Hero Academia",
+      "total_img": 407
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-600855159",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MyHeroAcademia_856521_crop2608_-1267304143",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMwl7r7xGaH2R4JHApG1apw5WBUSPnftnsudYhISaGwpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMwl7r7xGaH2R4JHApG1apmm/0PabqvqlpkGQyw+Q/85Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-303570153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-600855159",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MyHeroAcademia_856521_crop2608_1487522561",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqlA+2liqzOt2aoAzhFnXc9oMtDLZbC4RWNE0cx4THBJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqlA+2liqzOt2aoAzhFnXcNdAQoFEgVArxyF6VMoLjppVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-303570153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-600855159",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MyHeroAcademia_856521_crop2608_1564246292",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQ266GsU3oMniiEkcwCQZ8f6363QyUPI17iXdfeoUp55Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQ266GsU3oMniiEkcwCQZ8sDXwJc0RbTcpSDluHEluDZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-303570153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-995853516",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-547764787",
+      "id_img": "MyHeroAcademia_937821_crop2608_1535531520",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuGueoGhYNTYkNFj2RJ4DWt8dKIAIQJ4XoRjkYdVHbKpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuGueoGhYNTYkNFj2RJ4DWt/mgR+2RTwo+4sCFnldkrZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-303570153"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-326078627",
+        "1439812287"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

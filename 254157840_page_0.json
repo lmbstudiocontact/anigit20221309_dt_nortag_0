@@ -1,0 +1,183 @@
+{
+  "id_nortag": "254157840",
+  "index_page": 0,
+  "name_nortag": "Caster FateExtra",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "2084711001",
+  "hc_lt_data_img": "655823528",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "552442769",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-1883681052",
+      "name_alb": "FateExtra",
+      "total_img": 23
+    },
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    },
+    {
+      "id_alb": "224902894",
+      "name_alb": "FateGrand Order",
+      "total_img": 646
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-400515497",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1070137543",
+      "id_img": "FateExtra_714583_crop2608_-723551165",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWHJ7qqX6GuXNjSQ+bZz9bs1KE1IrKoME920RGd5tBxZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWHJ7qqX6GuXNjSQ+bZz9bn2suctSrdZGD6t2XksnxF5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1883681052"
+      ],
+      "lt_id_sptag": [
+        "-369710484",
+        "-2139213873",
+        "-143120565",
+        "1211227273",
+        "-271320563",
+        "679383692"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-119495923",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateExtra_915999_crop2608_-1500538999",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/1Mywc2hnwXiO5Qe/9kgaUGRpq+WaS/MYLWEYVT4WP5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/1Mywc2hnwXiO5Qe/9kgaIj+5jPil5cMo7YfEIHiMipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1883681052",
+        "66988"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1251049526",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "904836230",
+      "id_img": "FateGrandOrder_882098_crop2608_-345817362",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCVXEK+jBMGW10dsr3wij3OS2TUEyiLorEgclspwjS45Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCVXEK+jBMGW10dsr3wij3aSOIXzgi6RiVziqocWtAQpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "224902894"
+      ],
+      "lt_id_sptag": [
+        "-14067806",
+        "891390002",
+        "-135339788",
+        "-143120565",
+        "-143380300",
+        "-326078627",
+        "1600730941",
+        "-369535327",
+        "1129122964",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-369710484",
+      "key_sptag": "isGirlBellAnime",
+      "name_sptag": "Girls Bell",
+      "total": 927
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-271320563",
+      "key_sptag": "isGirlFaceMasksAnime",
+      "name_sptag": "Girls Face Masks",
+      "total": 1618
+    },
+    {
+      "id_sptag": "679383692",
+      "key_sptag": "isGirlKimonoAnime",
+      "name_sptag": "Girls Kimono Yukata Cheongsam",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-135339788",
+      "key_sptag": "isGirlHairWhiteAnime",
+      "name_sptag": "Girls Hair White",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-143380300",
+      "key_sptag": "isGirlHairGreyAnime",
+      "name_sptag": "Girls Hair Grey",
+      "total": 9239
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}
