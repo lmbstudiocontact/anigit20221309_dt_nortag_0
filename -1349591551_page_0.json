@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-664345459",
-  "hc_lt_data_img": "-1903007257",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "128985133",
+  "hc_lt_data_img": "-2117300281",
+  "hc_lt_nortag": "1713276250",
+  "hc_lt_sptag": "1191590569",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "656213325",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1232099497",
       "hc_lt_id_sptag": "-1180026059",
       "id_img": "KagerouProject_966355_crop2608_134569718",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS4sxwsIfAAdwxSTZeEYxvSl89PXbB3w8aWL0wbpAeXZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "839140189"
+      ],
+      "list_id_nortag": [
+        "-1349591551"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -47,58 +50,32 @@
     },
     {
       "hc_lt_id_alb": "1051211682",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1232099497",
       "hc_lt_id_sptag": "",
       "id_img": "KagerouProject_775399_crop2608_-1344587654",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZRt6+QE3jDgbYTKF8Go74XZ2UWppUU0+r2s5mYaBxP5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZRt6+QE3jDgbYTKF8Go744o5aJAJ2HaUUZ4SeE5Yd8ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "839140189"
+      ],
+      "list_id_nortag": [
+        "-1349591551"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1349591551",
+      "name_nortag": "Azami Kagerou Project",
+      "total_img": 2
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
-    },
-    {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
-    },
     {
       "id_sptag": "-1436512555",
       "key_sptag": "isDarkBlack",
       "name_sptag": "Dark Black",
       "total": 4051
-    },
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
-    {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
     },
     {
       "id_sptag": "1600730941",
@@ -107,16 +84,52 @@
       "total": 31431
     },
     {
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
+    },
+    {
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
       "id_sptag": "679383692",
       "key_sptag": "isGirlKimonoAnime",
       "name_sptag": "Girls Kimono Yukata Cheongsam",
       "total": 7942
     },
     {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
+    },
+    {
       "id_sptag": "1911583362",
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

@@ -5,9 +5,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-1422135080",
-  "hc_lt_data_img": "1376628698",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1711619007",
+  "hc_lt_data_img": "449556021",
+  "hc_lt_nortag": "-597761307",
+  "hc_lt_sptag": "442423259",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,28 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-80377846",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1599628069",
+      "hc_lt_id_sptag": "150943551",
+      "id_img": "LyricalLyric_843983_crop2608_1927628313",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiico3/pPwsd614eO789ZxbC3oukap/qaRrPohIfL5+m7kpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiico3/pPwsd614eO789ZxbC3hcZIX8yFTvC7a2bEqUAFCZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "817941833"
+      ],
+      "list_id_nortag": [
+        "2097577917"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-326078627",
+        "-369535327",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-80377846",
+      "hc_lt_id_nortag": "1599628069",
       "hc_lt_id_sptag": "897543724",
       "id_img": "LyricalLyric_843981_crop2608_35104731",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpdNJgzHuVxtgCJQg2oHIgfaFRJOFkQXr5djcQ//hqz5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +52,9 @@
       "lt_id_alb": [
         "68811063",
         "817941833"
+      ],
+      "list_id_nortag": [
+        "2097577917"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -43,25 +67,7 @@
     },
     {
       "hc_lt_id_alb": "-80377846",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "150943551",
-      "id_img": "LyricalLyric_843983_crop2608_1927628313",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiico3/pPwsd614eO789ZxbC3oukap/qaRrPohIfL5+m7kpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiico3/pPwsd614eO789ZxbC3hcZIX8yFTvC7a2bEqUAFCZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "817941833"
-      ],
-      "lt_id_sptag": [
-        "154003721",
-        "-326078627",
-        "-369535327",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-80377846",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1599628069",
       "hc_lt_id_sptag": "-583040830",
       "id_img": "LyricalLyric_843985_crop2608_-1987129769",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYlcHDRqCPXj6jLzF0iO/2I71SXFaOjyvMxxFEIerNu5Vy4706IhQgSYlgwrgVRHU=",
@@ -69,6 +75,9 @@
       "lt_id_alb": [
         "68811063",
         "817941833"
+      ],
+      "list_id_nortag": [
+        "2097577917"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -81,36 +90,19 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2097577917",
+      "name_nortag": "Arietta Lyrical Lyric",
+      "total_img": 3
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
       "name_sptag": "Girls Cute Cool",
       "total": 31431
-    },
-    {
-      "id_sptag": "-369535327",
-      "key_sptag": "isGirlHatsAnime",
-      "name_sptag": "Girls Hats",
-      "total": 11965
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
     },
     {
       "id_sptag": "635218351",
@@ -119,10 +111,22 @@
       "total": 25656
     },
     {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     },
     {
       "id_sptag": "126637389",
@@ -135,6 +139,18 @@
       "key_sptag": "isGirlScarfAnime",
       "name_sptag": "Girls Scarf",
       "total": 3306
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

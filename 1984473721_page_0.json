@@ -4,50 +4,26 @@
   "name_nortag": "D Gray Man",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "1039196627",
-  "hc_lt_data_img": "330538886",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1515262564",
+  "hc_lt_alb": "-1554789201",
+  "hc_lt_data_img": "-103995980",
+  "hc_lt_nortag": "-2125811060",
+  "hc_lt_sptag": "1706227438",
   "lt_alb": [
-    {
-      "id_alb": "197287731",
-      "name_alb": "DGrayman",
-      "total_img": 61
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "197287731",
+      "name_alb": "DGrayman",
+      "total_img": 61
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-781833209",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DGrayman_57798_crop2608_1230986136",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifef57V8Pwa8iZFfwJ2EsOvrNAfiUxUIn7k9r+5I82ElpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifef57V8Pwa8iZFfwJ2EsOvqkdSe0SHVkJPIgtX3OwYbZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "197287731",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-781833209",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DGrayman_835333_crop2608_607242391",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyUCp46+aw7nvJ5YAerJhplKC10+oLW2vscx6jMTQew5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyUCp46+aw7nvJ5YAerJhphMSXJ645DWlwWHPci/27kpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "197287731",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-781833209",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-686474319",
       "hc_lt_id_sptag": "1554216952",
       "id_img": "DGrayman_835334_crop2608_2114794200",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifF2bCjqT+n9FHCVzoR1Ox2g49Cin+hcLHZAZyHHDGGlpVy4706IhQgSYlgwrgVRHU=",
@@ -56,12 +32,88 @@
         "197287731",
         "66988"
       ],
+      "list_id_nortag": [
+        "80307677",
+        "-2056559023",
+        "684071802",
+        "77005162",
+        "2107205243",
+        "1984473721"
+      ],
       "lt_id_sptag": [
         "-1880367671",
         "-1436512555",
         "82870",
         "1736318786"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-781833209",
+      "hc_lt_id_nortag": "-1725150999",
+      "hc_lt_id_sptag": "",
+      "id_img": "DGrayman_57798_crop2608_1230986136",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifef57V8Pwa8iZFfwJ2EsOvrNAfiUxUIn7k9r+5I82ElpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifef57V8Pwa8iZFfwJ2EsOvqkdSe0SHVkJPIgtX3OwYbZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "197287731",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1984473721"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-781833209",
+      "hc_lt_id_nortag": "1412245159",
+      "hc_lt_id_sptag": "",
+      "id_img": "DGrayman_835333_crop2608_607242391",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyUCp46+aw7nvJ5YAerJhplKC10+oLW2vscx6jMTQew5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyUCp46+aw7nvJ5YAerJhphMSXJ645DWlwWHPci/27kpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "197287731",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1992679946",
+        "1984473721"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "1984473721",
+      "name_nortag": "D Gray Man",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "2107205243",
+      "name_nortag": "Flower",
+      "total_img": 497
+    },
+    {
+      "id_nortag": "77005162",
+      "name_nortag": "Petal",
+      "total_img": 70
+    },
+    {
+      "id_nortag": "684071802",
+      "name_nortag": "Ponytail",
+      "total_img": 108
+    },
+    {
+      "id_nortag": "80307677",
+      "name_nortag": "Sword",
+      "total_img": 198
+    },
+    {
+      "id_nortag": "-2056559023",
+      "name_nortag": "Yu Kanda",
+      "total_img": 15
     }
   ],
   "lt_sptag": [
@@ -70,6 +122,12 @@
       "key_sptag": "isBoyDarkBlack",
       "name_sptag": "Boy Dark Black",
       "total": 573
+    },
+    {
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
     },
     {
       "id_sptag": "-1436512555",
@@ -82,12 +140,6 @@
       "key_sptag": "isSad",
       "name_sptag": "Sad",
       "total": 12057
-    },
-    {
-      "id_sptag": "1736318786",
-      "key_sptag": "isBoySad",
-      "name_sptag": "Boy Sad",
-      "total": 1551
     }
   ]
 }

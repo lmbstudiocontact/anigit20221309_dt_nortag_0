@@ -5,8 +5,8 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "1651467963",
-  "hc_lt_data_img": "1556872189",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-1476098288",
+  "hc_lt_nortag": "1383274311",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,31 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1753034870",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_713934_crop2608_-1937301775",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3EFxCX/6C3EaI2ah1NrPWomfUw9w1hqddJJU6Kr2zNZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3EFxCX/6C3EaI2ah1NrPWEV4D6jf1eGYiruxX1juBL5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1753034870",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_713934_crop2608_-540777058",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgST+W3GEAqF8cy02K2CTqQ6NqzOE8aFsUMDOoPqWtypVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgST+W3GEAqF8cy02K2CTqC+NdhFYk2Wj9yeErIJHSKJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1753034870",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "856826776",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_713934_crop2608_1853855476",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidU6aEuQmZuW1zHP4UWf6ccPM4DOo2ZwKJkHEPOazfJj5Vy4706IhQgSYlgwrgVRHU=",
@@ -55,7 +31,71 @@
       "lt_id_alb": [
         "66988",
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "-615584998",
+        "639734306",
+        "633717388",
+        "-1428224976"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-1753034870",
+      "hc_lt_id_nortag": "856826776",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_713934_crop2608_-1937301775",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3EFxCX/6C3EaI2ah1NrPWomfUw9w1hqddJJU6Kr2zNZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3EFxCX/6C3EaI2ah1NrPWEV4D6jf1eGYiruxX1juBL5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "-615584998",
+        "639734306",
+        "633717388",
+        "-1428224976"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1753034870",
+      "hc_lt_id_nortag": "856826776",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_713934_crop2608_-540777058",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgST+W3GEAqF8cy02K2CTqQ6NqzOE8aFsUMDOoPqWtypVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgST+W3GEAqF8cy02K2CTqC+NdhFYk2Wj9yeErIJHSKJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "-615584998",
+        "639734306",
+        "633717388",
+        "-1428224976"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-615584998",
+      "name_nortag": "Buggy One Piece",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "639734306",
+      "name_nortag": "Grimmjow Jaegerjaquez",
+      "total_img": 36
+    },
+    {
+      "id_nortag": "-1428224976",
+      "name_nortag": "Jellal Fernandes",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "633717388",
+      "name_nortag": "Kamina Tengen Toppa Gurren Lagann",
+      "total_img": 13
     }
   ]
 }

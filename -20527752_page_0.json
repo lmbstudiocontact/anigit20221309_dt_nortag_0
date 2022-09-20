@@ -5,9 +5,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "361941649",
-  "hc_lt_data_img": "165972499",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1480112655",
+  "hc_lt_data_img": "847631223",
+  "hc_lt_nortag": "-446450918",
+  "hc_lt_sptag": "1060735731",
   "lt_alb": [
     {
       "id_alb": "-1958218862",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "868289541",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1752805496",
       "hc_lt_id_sptag": "-266231651",
       "id_img": "CardcaptorSakura_908304_crop2608_-312493090",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8kUqMn3UVOuG26PmgUUpDEKl804AySnu3ywcB77D7/pVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,10 @@
       "lt_id_alb": [
         "-1958218862",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "902131541",
+        "-20527752"
       ],
       "lt_id_sptag": [
         "-120608061",
@@ -46,7 +50,7 @@
     },
     {
       "hc_lt_id_alb": "868289541",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1752805496",
       "hc_lt_id_sptag": "-348297334",
       "id_img": "CardcaptorSakura_908304_crop2608_1827240779",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0F0tcWmZYHyvLsZJXKdyZidMzYWRJ42InxSdtTf5VhpVy4706IhQgSYlgwrgVRHU=",
@@ -54,6 +58,10 @@
       "lt_id_alb": [
         "-1958218862",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "902131541",
+        "-20527752"
       ],
       "lt_id_sptag": [
         "-120608061",
@@ -69,7 +77,7 @@
     },
     {
       "hc_lt_id_alb": "868289541",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1752805496",
       "hc_lt_id_sptag": "-198069078",
       "id_img": "CardcaptorSakura_978056_crop2608_1523420223",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifhTWMIxFU5GdIXsQgDz8KjtmIlML4yxnFOQaiMyfqn+JVy4706IhQgSYlgwrgVRHU=",
@@ -77,6 +85,10 @@
       "lt_id_alb": [
         "-1958218862",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "902131541",
+        "-20527752"
       ],
       "lt_id_sptag": [
         "-2139213873",
@@ -89,19 +101,19 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-20527752",
+      "name_nortag": "Akiho Shinomoto",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "902131541",
+      "name_nortag": "Sakura Kinomoto",
+      "total_img": 390
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "-120608061",
-      "key_sptag": "isGirlHairOrangeAnime",
-      "name_sptag": "Girls Hair Orange",
-      "total": 4128
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
@@ -109,34 +121,10 @@
       "total": 31431
     },
     {
-      "id_sptag": "-369535327",
-      "key_sptag": "isGirlHatsAnime",
-      "name_sptag": "Girls Hats",
-      "total": 11965
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
       "id_sptag": "635218351",
       "key_sptag": "isGirlEyesBlueAnime",
       "name_sptag": "Girls Eyes Blue",
       "total": 25656
-    },
-    {
-      "id_sptag": "1443397502",
-      "key_sptag": "isGirlWitchAnime",
-      "name_sptag": "Girls Witch",
-      "total": 8338
     },
     {
       "id_sptag": "-143528947",
@@ -151,10 +139,46 @@
       "total": 9239
     },
     {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
       "id_sptag": "-298695861",
       "key_sptag": "isGirlWeddingAnime",
       "name_sptag": "Girls Wedding",
       "total": 2328
+    },
+    {
+      "id_sptag": "1443397502",
+      "key_sptag": "isGirlWitchAnime",
+      "name_sptag": "Girls Witch",
+      "total": 8338
     }
   ]
 }

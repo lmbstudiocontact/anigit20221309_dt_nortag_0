@@ -5,9 +5,9 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-1733740384",
-  "hc_lt_data_img": "-1630598693",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1285533537",
+  "hc_lt_data_img": "-901546501",
+  "hc_lt_nortag": "1686664410",
+  "hc_lt_sptag": "-880864023",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -27,29 +27,34 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-1367358028",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1800195004",
-      "id_img": "TheIdolmasterCinderellaGirlsStarlightStage_829049_crop2608_-114145868",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMGAZEJUpdDtO9NIZ0OR2fv5BZ2ZLpfZB5dgPoxjhMa5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMGAZEJUpdDtO9NIZ0OR2fOtIY2JUd4f9G5aGfuYKe8JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "-1933662552",
+      "hc_lt_id_nortag": "1189314053",
+      "hc_lt_id_sptag": "-1439308026",
+      "id_img": "TheiDOLMSTERCinderellaGirls_935902_crop2608_-893207743",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJy1dw1w857FHYtKE1UkNXYmJvcpyoh+pb+N+4p0X2KJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJy1dw1w857FHYtKE1UkNXBtBQDn7Y3unAOShBrX8a15Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
-        "1948004981"
+        "1510895560"
+      ],
+      "list_id_nortag": [
+        "1633616334",
+        "2117049414",
+        "1147009136",
+        "1086996431"
       ],
       "lt_id_sptag": [
-        "1211227273",
-        "-1782893951",
-        "-143380300",
-        "-326078627",
+        "154003721",
+        "-2139213873",
+        "-1364967268",
+        "1600730941",
         "1439812287",
-        "1911583362",
-        "-143528947"
+        "1911583362"
       ]
     },
     {
       "hc_lt_id_alb": "-1367358028",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-284988419",
       "hc_lt_id_sptag": "-311251254",
       "id_img": "TheIdolmasterCinderellaGirlsStarlightStage_829050_crop2608_-114145846",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepdYL9yUW5YLt+wl4ea7j9QbFxtglcq4s4APxLvsl9RZVy4706IhQgSYlgwrgVRHU=",
@@ -57,6 +62,9 @@
       "lt_id_alb": [
         "68811063",
         "1948004981"
+      ],
+      "list_id_nortag": [
+        "1147009136"
       ],
       "lt_id_sptag": [
         "1211227273",
@@ -72,30 +80,58 @@
     },
     {
       "hc_lt_id_alb": "-1367358028",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1824104447",
-      "id_img": "TheIdolmasterCinderellaGirlsStarlightStage_833639_crop2608_-113395358",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZvulR4TCTTI6KFrCvla5UK7St3WRweBrzXkLqewq4TJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZvulR4TCTTI6KFrCvla5UE1njXFh/BRo2sCSutwq605Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-284988419",
+      "hc_lt_id_sptag": "1800195004",
+      "id_img": "TheIdolmasterCinderellaGirlsStarlightStage_829049_crop2608_-114145868",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMGAZEJUpdDtO9NIZ0OR2fv5BZ2ZLpfZB5dgPoxjhMa5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMGAZEJUpdDtO9NIZ0OR2fOtIY2JUd4f9G5aGfuYKe8JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "1948004981"
       ],
+      "list_id_nortag": [
+        "1147009136"
+      ],
       "lt_id_sptag": [
-        "-120608061",
-        "936615491",
+        "1211227273",
+        "-1782893951",
+        "-143380300",
+        "-326078627",
+        "1439812287",
+        "1911583362",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1933662552",
+      "hc_lt_id_nortag": "1189314053",
+      "hc_lt_id_sptag": "586886732",
+      "id_img": "TheiDOLMSTERCinderellaGirls_935902_crop2608_199609073",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHt6KFelXQumlmkI42VSBFJ63Iro7DLF8duTle2beLH5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHt6KFelXQumlmkI42VSBFACTKtcazhHcmLvj7ZoAPfpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1510895560"
+      ],
+      "list_id_nortag": [
+        "1633616334",
+        "2117049414",
+        "1147009136",
+        "1086996431"
+      ],
+      "lt_id_sptag": [
+        "-2139213873",
         "-1782893951",
         "-326078627",
         "1600730941",
         "1439812287",
         "1911583362",
-        "635218351",
         "-143528947"
       ]
     },
     {
       "hc_lt_id_alb": "-1367358028",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-284988419",
       "hc_lt_id_sptag": "-1909180321",
       "id_img": "TheIdolmasterCinderellaGirlsStarlightStage_834635_crop2608_-113365571",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVOAcoSqrFub1wCJ2CQ9IyFl+XXc6/OyzF8AaxvWdA/5Vy4706IhQgSYlgwrgVRHU=",
@@ -103,6 +139,9 @@
       "lt_id_alb": [
         "68811063",
         "1948004981"
+      ],
+      "list_id_nortag": [
+        "1147009136"
       ],
       "lt_id_sptag": [
         "936615491",
@@ -116,53 +155,66 @@
       ]
     },
     {
-      "hc_lt_id_alb": "-1933662552",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1439308026",
-      "id_img": "TheiDOLMSTERCinderellaGirls_935902_crop2608_-893207743",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJy1dw1w857FHYtKE1UkNXYmJvcpyoh+pb+N+4p0X2KJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJy1dw1w857FHYtKE1UkNXBtBQDn7Y3unAOShBrX8a15Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "-1367358028",
+      "hc_lt_id_nortag": "-284988419",
+      "hc_lt_id_sptag": "1824104447",
+      "id_img": "TheIdolmasterCinderellaGirlsStarlightStage_833639_crop2608_-113395358",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZvulR4TCTTI6KFrCvla5UK7St3WRweBrzXkLqewq4TJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZvulR4TCTTI6KFrCvla5UE1njXFh/BRo2sCSutwq605Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
-        "1510895560"
+        "1948004981"
+      ],
+      "list_id_nortag": [
+        "1147009136"
       ],
       "lt_id_sptag": [
-        "154003721",
-        "-2139213873",
-        "-1364967268",
-        "1600730941",
-        "1439812287",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1933662552",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "586886732",
-      "id_img": "TheiDOLMSTERCinderellaGirls_935902_crop2608_199609073",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHt6KFelXQumlmkI42VSBFJ63Iro7DLF8duTle2beLH5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHt6KFelXQumlmkI42VSBFACTKtcazhHcmLvj7ZoAPfpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "1510895560"
-      ],
-      "lt_id_sptag": [
-        "-2139213873",
+        "-120608061",
+        "936615491",
         "-1782893951",
         "-326078627",
         "1600730941",
         "1439812287",
         "1911583362",
+        "635218351",
         "-143528947"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1147009136",
+      "name_nortag": "Aiko Takamori",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "1633616334",
+      "name_nortag": "Chieri Ogata",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "2117049414",
+      "name_nortag": "Kanako Mimura",
+      "total_img": 19
+    },
+    {
+      "id_nortag": "1086996431",
+      "name_nortag": "Yumi Aiba",
+      "total_img": 10
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-1782893951",
@@ -171,16 +223,58 @@
       "total": 9376
     },
     {
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
       "id_sptag": "-143380300",
       "key_sptag": "isGirlHairGreyAnime",
       "name_sptag": "Girls Hair Grey",
       "total": 9239
     },
     {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1439812287",
@@ -195,64 +289,16 @@
       "total": 61257
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
-      "id_sptag": "-298695861",
-      "key_sptag": "isGirlWeddingAnime",
-      "name_sptag": "Girls Wedding",
-      "total": 2328
-    },
-    {
-      "id_sptag": "-120608061",
-      "key_sptag": "isGirlHairOrangeAnime",
-      "name_sptag": "Girls Hair Orange",
-      "total": 4128
-    },
-    {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
       "id_sptag": "-1811357781",
       "key_sptag": "isGirlUniformAnime",
       "name_sptag": "Girls Uniform",
       "total": 16929
     },
     {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
+      "id_sptag": "-298695861",
+      "key_sptag": "isGirlWeddingAnime",
+      "name_sptag": "Girls Wedding",
+      "total": 2328
     }
   ]
 }

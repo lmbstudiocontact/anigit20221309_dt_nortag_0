@@ -4,11 +4,16 @@
   "name_nortag": "Chtholly Nota Seniorious",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "-477783983",
-  "hc_lt_data_img": "452036723",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1994458025",
+  "hc_lt_alb": "-1909698189",
+  "hc_lt_data_img": "-43929613",
+  "hc_lt_nortag": "224554686",
+  "hc_lt_sptag": "1481097141",
   "lt_alb": [
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
@@ -18,17 +23,27 @@
       "id_alb": "-1755439472",
       "name_alb": "Sukasuka",
       "total_img": 4
-    },
-    {
-      "id_alb": "2024260576",
-      "name_alb": "Couple",
-      "total_img": 2059
     }
   ],
   "lt_data_img": [
     {
+      "hc_lt_id_alb": "-2031788863",
+      "hc_lt_id_nortag": "-1194418287",
+      "hc_lt_id_sptag": "",
+      "id_img": "Sukasuka_854600_crop2608_851499104",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/MGYY6itauNS8nie7g++DmzItE9IZgv2LbeIk0LdO95Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/MGYY6itauNS8nie7g++DG57XvyFmkYTVhy/N1joMcpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1755439472",
+        "2024260576"
+      ],
+      "list_id_nortag": [
+        "1418972969"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-2108118350",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1194418287",
       "hc_lt_id_sptag": "-708037341",
       "id_img": "Sukasuka_806825_crop2608_-581878050",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieA6VsF9wf5vJa7xD5TSicdpORUOkCMWujiqopCIMym15Vy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +51,9 @@
       "lt_id_alb": [
         "68811063",
         "-1755439472"
+      ],
+      "list_id_nortag": [
+        "1418972969"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -52,7 +70,7 @@
     },
     {
       "hc_lt_id_alb": "-2108118350",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1194418287",
       "hc_lt_id_sptag": "883733735",
       "id_img": "Sukasuka_806826_crop2608_925673759",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5Ms0ATp/IYDtk5vK8pGH0Q/bsW2CPJIFMNdBdJ7a+JZVy4706IhQgSYlgwrgVRHU=",
@@ -60,6 +78,9 @@
       "lt_id_alb": [
         "68811063",
         "-1755439472"
+      ],
+      "list_id_nortag": [
+        "1418972969"
       ],
       "lt_id_sptag": [
         "82870",
@@ -75,7 +96,7 @@
     },
     {
       "hc_lt_id_alb": "-2108118350",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1194418287",
       "hc_lt_id_sptag": "570627761",
       "id_img": "Sukasuka_817330_crop2608_-58394797",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwqRbLi0LqMhlJRUVQJWQX5jIfHd13mggPdkYc4+KCjJVy4706IhQgSYlgwrgVRHU=",
@@ -84,6 +105,9 @@
         "68811063",
         "-1755439472"
       ],
+      "list_id_nortag": [
+        "1418972969"
+      ],
       "lt_id_sptag": [
         "-326078627",
         "-143534545",
@@ -91,45 +115,16 @@
         "635218351",
         "1443397502"
       ]
-    },
+    }
+  ],
+  "lt_nortag": [
     {
-      "hc_lt_id_alb": "-2031788863",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Sukasuka_854600_crop2608_851499104",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/MGYY6itauNS8nie7g++DmzItE9IZgv2LbeIk0LdO95Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/MGYY6itauNS8nie7g++DG57XvyFmkYTVhy/N1joMcpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1755439472",
-        "2024260576"
-      ]
+      "id_nortag": "1418972969",
+      "name_nortag": "Chtholly Nota Seniorious",
+      "total_img": 4
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
-    {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
@@ -137,10 +132,16 @@
       "total": 31431
     },
     {
-      "id_sptag": "1440489992",
-      "key_sptag": "isGirlTearsAnime",
-      "name_sptag": "Girls Tears",
-      "total": 1511
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1786946560",
+      "key_sptag": "isGirlHair2ColorAnime",
+      "name_sptag": "Girls Hair 2 Color",
+      "total": 1686
     },
     {
       "id_sptag": "-143534545",
@@ -155,34 +156,52 @@
       "total": 3081
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "-1786946560",
-      "key_sptag": "isGirlHair2ColorAnime",
-      "name_sptag": "Girls Hair 2 Color",
-      "total": 1686
-    },
-    {
       "id_sptag": "-369535327",
       "key_sptag": "isGirlHatsAnime",
       "name_sptag": "Girls Hats",
       "total": 11965
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
+    },
+    {
+      "id_sptag": "1440489992",
+      "key_sptag": "isGirlTearsAnime",
+      "name_sptag": "Girls Tears",
+      "total": 1511
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     },
     {
       "id_sptag": "1443397502",
       "key_sptag": "isGirlWitchAnime",
       "name_sptag": "Girls Witch",
       "total": 8338
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

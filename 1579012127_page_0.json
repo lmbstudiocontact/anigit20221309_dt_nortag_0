@@ -4,20 +4,20 @@
   "name_nortag": "Gogeta Dragon Ball",
   "total_img": 22,
   "total_page": 0,
-  "hc_lt_alb": "496912083",
-  "hc_lt_data_img": "186014604",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-1098056579",
+  "hc_lt_data_img": "-1502730691",
+  "hc_lt_nortag": "1479978272",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "-201309791",
-      "name_alb": "Dragon Ball GT",
-      "total_img": 14
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "-201309791",
+      "name_alb": "Dragon Ball GT",
+      "total_img": 14
     },
     {
       "id_alb": "-1433462233",
@@ -30,56 +30,20 @@
       "total_img": 208
     },
     {
-      "id_alb": "505986750",
-      "name_alb": "Unrefined",
-      "total_img": 824
-    },
-    {
       "id_alb": "-60413972",
       "name_alb": "Dragon Ball",
       "total_img": 40
+    },
+    {
+      "id_alb": "505986750",
+      "name_alb": "Unrefined",
+      "total_img": 824
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "1938804897",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallGT_652182_crop2608_1336612746",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEPLjcmsOQBGtiVNYKPpx6f/Dvy0TptbDeIH0W4ZA8f5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEPLjcmsOQBGtiVNYKPpx6BvvDp0tRuta/zC9KgxhGXZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201309791",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1938804897",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallGT_673483_crop2608_1392786178",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyk5sfortRkUjICzxpXhTO/bwYIJJrYomDtcPsZUNhGpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyk5sfortRkUjICzxpXhTOrz9qLqhhHiw4v1RggICjVJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201309791",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1938804897",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallGT_860261_crop2608_-1759503923",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxzkiafLupJN1BGiKFXDTvO9C32py0UL8sXSI+v9sRN5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxzkiafLupJN1BGiKFXDTvTxlLeLQyxPdxezQctWtQI5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201309791",
-        "66988"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-510652950",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBallSuper_678318_crop2608_-1247168021",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYEfHImcF+1zY40FwSImHDA9e1gwqJ1J4qdgrjf2RlFJVy4706IhQgSYlgwrgVRHU=",
@@ -87,200 +51,14 @@
       "lt_id_alb": [
         "-1433462233",
         "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_679029_crop2608_-1012184537",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHNFcrZnr3N2amxksmg4LoMqe3K/iydFSRo29EFm+eZpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHNFcrZnr3N2amxksmg4LoQit47sVnXHBvTtkRXU3UGpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_769355_crop2608_216549729",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsRZenKF1SXUylbWO14RcwyB5Q1Gk1SXcZZGczs2SlrJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsRZenKF1SXUylbWO14Rcwlj4tkYJoB8v63OT59uoeRZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_772373_crop2608_-1979554939",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEoDkE5JaLP7FKOS2F3wEoaguZbDft9SZDlgQ/oqmPFJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEoDkE5JaLP7FKOS2F3wEof/GLDjtB5iIsWi8zrK90N5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallSuper_956996_crop2608_-2065038396",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiff/JwBMsxcSaLU/KVvixObk511L/0MyH6jPlgMwcq8iJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiff/JwBMsxcSaLU/KVvixObfgRaTaEUs19+qLs4MyFLv5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_310792_crop2608_-1860230617",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie55y3DXF6ouz3do6HVFRz8hUWhdv78whXEgIdeYFRjXZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie55y3DXF6ouz3do6HVFRz80PJXJKalco+xGyUnn83cm5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_310792_crop2608_1699310010",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFHmqdJ/r/VZmPcHMeLw120ipIZxbrVET8P1Et0yjb2ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFHmqdJ/r/VZmPcHMeLw12Yxzt4Gr35FCGhDi26suNP5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_474429_crop2608_-1257502669",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaKouQrYCC5vlvKet6EsOdmWvoFyEe2CeKNc2npTimLpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaKouQrYCC5vlvKet6EsOdVaSRnwo4WFbi6pxfVIWjF5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_593476_crop2608_-1896690651",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqwhFp+LQQl4MWJF2GMY5h6FBOm0fY8HJ/WdeLN5JjZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqwhFp+LQQl4MWJF2GMY5T4UmhhYNxdFrksffXzAXVZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_593476_crop2608_-843590003",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepup1D2sU24QcqEJZDs3CoEw4MRzkKo41J2/CRuGzTNJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepup1D2sU24QcqEJZDs3CoAUbLTwVebq/o1b+/xdBwFpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_593476_crop2608_19922848",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPugXI0P5CzColicbu2jknsQNDIRlSZ5Pc9SZzw9dH/ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPugXI0P5CzColicbu2jknkVbKPPwQlUvLWLPYbdgtm5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1430599661",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_647549_crop2608_1107572552",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicS2xqhwQhEAsoxH5XTUy/7YXtmV+OeAu4GMo4JnoQw6JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicS2xqhwQhEAsoxH5XTUy/7L0su4Ce7Q8h/HlAxTfjhoZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1430599661",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_647549_crop2608_2094256074",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8Ve9B4ovJ9iDFr7FQZgotW8bYzdMxf0GXGdNeK1VF5ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8Ve9B4ovJ9iDFr7FQZgot062k9KOfJlmkaWzAeuzcY5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1430599661",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_647551_crop2608_-1505183308",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiellAWB/14mYyz7oXIWCwXiZJGLIgM7i/tWZPp9elJatZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiellAWB/14mYyz7oXIWCwXi0Sy67Rci+SzMci5megKb2ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1624381434",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_647551_crop2608_-1930341231",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1y2w8GFTx86kFsGC3UsvkFzflm3uaRVT+aNp1LLT1qZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1y2w8GFTx86kFsGC3UsvkAo7ySiMloBHrfs+NsA9tQZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "505986750",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_680636_crop2608_29607038",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJM9Mpgqh/nVsJH4BM2zEEHNkzzxxqVXU1Ovr2tC4oEpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJM9Mpgqh/nVsJH4BM2zEEuq5ZUkrGxKC7mdSQ6qv3p5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1266768778",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DragonBallZ_725232_crop2608_-143802688",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekPKxGClhRAJ4PoP8Co8jkXJshgu7iR7sYEqRc7hfXopVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekPKxGClhRAJ4PoP8Co8jkX4hbAXvXGiMZ3DmmcqBjj5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1579012127"
       ]
     },
     {
       "hc_lt_id_alb": "-1619915059",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-261495320",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBall_68646_crop2608_1290592155",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTBWHq4POjsxrry89cogleciMYK4TuwLtox8lsHkKuupVy4706IhQgSYlgwrgVRHU=",
@@ -288,11 +66,215 @@
       "lt_id_alb": [
         "66988",
         "-60413972"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "1579012127",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1430599661",
+      "hc_lt_id_nortag": "1380430827",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_647549_crop2608_2094256074",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8Ve9B4ovJ9iDFr7FQZgotW8bYzdMxf0GXGdNeK1VF5ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8Ve9B4ovJ9iDFr7FQZgot062k9KOfJlmkaWzAeuzcY5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "-1786351203",
+        "2225266",
+        "-1301285671",
+        "-1633738069",
+        "1579012127",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1938804897",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallGT_673483_crop2608_1392786178",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyk5sfortRkUjICzxpXhTO/bwYIJJrYomDtcPsZUNhGpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyk5sfortRkUjICzxpXhTOrz9qLqhhHiw4v1RggICjVJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201309791",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1624381434",
+      "hc_lt_id_nortag": "-262881659",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_647551_crop2608_-1930341231",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1y2w8GFTx86kFsGC3UsvkFzflm3uaRVT+aNp1LLT1qZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1y2w8GFTx86kFsGC3UsvkAo7ySiMloBHrfs+NsA9tQZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "505986750",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-1301285671",
+        "-1633738069",
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_956996_crop2608_-2065038396",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiff/JwBMsxcSaLU/KVvixObk511L/0MyH6jPlgMwcq8iJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiff/JwBMsxcSaLU/KVvixObfgRaTaEUs19+qLs4MyFLv5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_679029_crop2608_-1012184537",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHNFcrZnr3N2amxksmg4LoMqe3K/iydFSRo29EFm+eZpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHNFcrZnr3N2amxksmg4LoQit47sVnXHBvTtkRXU3UGpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "-261495320",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_474429_crop2608_-1257502669",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaKouQrYCC5vlvKet6EsOdmWvoFyEe2CeKNc2npTimLpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidaKouQrYCC5vlvKet6EsOdVaSRnwo4WFbi6pxfVIWjF5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "1579012127",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "-181888723",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_593476_crop2608_19922848",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPugXI0P5CzColicbu2jknsQNDIRlSZ5Pc9SZzw9dH/ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidPugXI0P5CzColicbu2jknkVbKPPwQlUvLWLPYbdgtm5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1551346992",
+        "2225266",
+        "1579012127",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "1853673071",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_310792_crop2608_1699310010",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFHmqdJ/r/VZmPcHMeLw120ipIZxbrVET8P1Et0yjb2ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFHmqdJ/r/VZmPcHMeLw12Yxzt4Gr35FCGhDi26suNP5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1551346992",
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_725232_crop2608_-143802688",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekPKxGClhRAJ4PoP8Co8jkXJshgu7iR7sYEqRc7hfXopVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekPKxGClhRAJ4PoP8Co8jkX4hbAXvXGiMZ3DmmcqBjj5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "1853673071",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_310792_crop2608_-1860230617",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie55y3DXF6ouz3do6HVFRz8hUWhdv78whXEgIdeYFRjXZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie55y3DXF6ouz3do6HVFRz80PJXJKalco+xGyUnn83cm5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1551346992",
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "-1939197086",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_772373_crop2608_-1979554939",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEoDkE5JaLP7FKOS2F3wEoaguZbDft9SZDlgQ/oqmPFJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEoDkE5JaLP7FKOS2F3wEof/GLDjtB5iIsWi8zrK90N5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "782198776",
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "-181888723",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_593476_crop2608_-843590003",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepup1D2sU24QcqEJZDs3CoEw4MRzkKo41J2/CRuGzTNJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepup1D2sU24QcqEJZDs3CoAUbLTwVebq/o1b+/xdBwFpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1551346992",
+        "2225266",
+        "1579012127",
+        "-1140366362"
       ]
     },
     {
       "hc_lt_id_alb": "-1619915059",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-510652950",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBall_973228_crop2608_1141313250",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecWJY4cGVBmGPwoor48tiHhFG+n9Ezygtg4zTwK3vrW5Vy4706IhQgSYlgwrgVRHU=",
@@ -300,7 +282,166 @@
       "lt_id_alb": [
         "66988",
         "-60413972"
+      ],
+      "list_id_nortag": [
+        "1579012127"
       ]
+    },
+    {
+      "hc_lt_id_alb": "1430599661",
+      "hc_lt_id_nortag": "1380430827",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_647549_crop2608_1107572552",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicS2xqhwQhEAsoxH5XTUy/7YXtmV+OeAu4GMo4JnoQw6JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicS2xqhwQhEAsoxH5XTUy/7L0su4Ce7Q8h/HlAxTfjhoZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "-1786351203",
+        "2225266",
+        "-1301285671",
+        "-1633738069",
+        "1579012127",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1938804897",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallGT_860261_crop2608_-1759503923",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxzkiafLupJN1BGiKFXDTvO9C32py0UL8sXSI+v9sRN5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxzkiafLupJN1BGiKFXDTvTxlLeLQyxPdxezQctWtQI5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201309791",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-717388632",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallSuper_769355_crop2608_216549729",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsRZenKF1SXUylbWO14RcwyB5Q1Gk1SXcZZGczs2SlrJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsRZenKF1SXUylbWO14Rcwlj4tkYJoB8v63OT59uoeRZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_680636_crop2608_29607038",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJM9Mpgqh/nVsJH4BM2zEEHNkzzxxqVXU1Ovr2tC4oEpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJM9Mpgqh/nVsJH4BM2zEEuq5ZUkrGxKC7mdSQ6qv3p5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1266768778",
+      "hc_lt_id_nortag": "-181888723",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_593476_crop2608_-1896690651",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqwhFp+LQQl4MWJF2GMY5h6FBOm0fY8HJ/WdeLN5JjZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqwhFp+LQQl4MWJF2GMY5T4UmhhYNxdFrksffXzAXVZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "1551346992",
+        "2225266",
+        "1579012127",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1430599661",
+      "hc_lt_id_nortag": "-262881659",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallZ_647551_crop2608_-1505183308",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiellAWB/14mYyz7oXIWCwXiZJGLIgM7i/tWZPp9elJatZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiellAWB/14mYyz7oXIWCwXi0Sy67Rci+SzMci5megKb2ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2071716134"
+      ],
+      "list_id_nortag": [
+        "2225266",
+        "-1301285671",
+        "-1633738069",
+        "1579012127"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1938804897",
+      "hc_lt_id_nortag": "-510652950",
+      "hc_lt_id_sptag": "",
+      "id_img": "DragonBallGT_652182_crop2608_1336612746",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEPLjcmsOQBGtiVNYKPpx6f/Dvy0TptbDeIH0W4ZA8f5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEPLjcmsOQBGtiVNYKPpx6BvvDp0tRuta/zC9KgxhGXZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201309791",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1579012127"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1579012127",
+      "name_nortag": "Gogeta Dragon Ball",
+      "total_img": 22
+    },
+    {
+      "id_nortag": "-1301285671",
+      "name_nortag": "Gohan Dragon Ball",
+      "total_img": 63
+    },
+    {
+      "id_nortag": "2225266",
+      "name_nortag": "Goku",
+      "total_img": 321
+    },
+    {
+      "id_nortag": "-1786351203",
+      "name_nortag": "Majin Buu",
+      "total_img": 37
+    },
+    {
+      "id_nortag": "1551346992",
+      "name_nortag": "Super Saiyan",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-1633738069",
+      "name_nortag": "Trunks Dragon Ball",
+      "total_img": 48
+    },
+    {
+      "id_nortag": "-1140366362",
+      "name_nortag": "Vegeta Dragon Ball",
+      "total_img": 124
+    },
+    {
+      "id_nortag": "782198776",
+      "name_nortag": "Vegito Dragon Ball",
+      "total_img": 18
     }
   ]
 }

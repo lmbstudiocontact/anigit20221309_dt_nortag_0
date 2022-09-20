@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "205646074",
-  "hc_lt_data_img": "2026823919",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-997969298",
+  "hc_lt_nortag": "1009527192",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,14 +18,30 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1786723901",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "509203732",
       "hc_lt_id_sptag": "",
       "id_img": "Bleach_857464_crop2608_1933508350",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiied4FIk+3S8WUM4KKBtIxxn+qwjPqGmTu1XOlYXoqwt65Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiied4FIk+3S8WUM4KKBtIxxnJjg58l1grUCxpVsrtb/ZYJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1992369515"
+      ],
+      "list_id_nortag": [
+        "1982488452",
+        "-827276520"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1982488452",
+      "name_nortag": "Bankai",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "-827276520",
+      "name_nortag": "Rukia Kuchiki",
+      "total_img": 81
     }
   ]
 }

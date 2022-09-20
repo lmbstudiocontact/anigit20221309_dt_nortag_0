@@ -5,9 +5,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "1823164165",
-  "hc_lt_data_img": "-549072668",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1231859642",
+  "hc_lt_data_img": "-767971350",
+  "hc_lt_nortag": "-932831645",
+  "hc_lt_sptag": "-307033306",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,43 +23,30 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-466495772",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-47238614",
-      "id_img": "NoGameNoLife_658712_crop2608_-1993673421",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidDUR39ccXE8ERL89K5zkpj+h7z86HSZU0t5VnK+P0jXJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidDUR39ccXE8ERL89K5zkpjHmUBTL4IOSURnXlJabmWLZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "107016557",
+      "hc_lt_id_sptag": "-820941223",
+      "id_img": "NoGameNoLife_818394_crop2608_1493443728",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ9h7bGcI9H0V4Gii1ukMyogVGQsp1wRKG9G80+D2hF5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ9h7bGcI9H0V4Gii1ukMyQ1EcHrUTtmQ1m2J/RQ2kzZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "154391500"
       ],
+      "list_id_nortag": [
+        "-676087159"
+      ],
       "lt_id_sptag": [
         "154003721",
-        "-143120565",
-        "-1364967268",
         "-326078627",
-        "71899412",
-        "-143534545",
         "410439701",
+        "1439812287",
         "1911583362",
-        "635218351",
-        "-143528947",
-        "-1786946560"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-71497415",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "NoGameNoLife_658712_crop2608_106334450",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/O+A648lbdJkY2wLRUgotoxAMoNRYaDZEUTzv0o89LJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/O+A648lbdJkY2wLRUgotOPCe//RLzyl/CGJzIH0DqZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "154391500"
+        "635218351"
       ]
     },
     {
       "hc_lt_id_alb": "-466495772",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "943473282",
       "hc_lt_id_sptag": "1801757619",
       "id_img": "NoGameNoLife_658712_crop2608_1120645984",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvaKS2nizSNnsoefGeACf+vrekziNzlAMbBgfaAEB1q5Vy4706IhQgSYlgwrgVRHU=",
@@ -67,6 +54,12 @@
       "lt_id_alb": [
         "68811063",
         "154391500"
+      ],
+      "list_id_nortag": [
+        "1212566397",
+        "-1692646569",
+        "-676087159",
+        "-971789334"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -84,74 +77,82 @@
       ]
     },
     {
+      "hc_lt_id_alb": "-71497415",
+      "hc_lt_id_nortag": "943473282",
+      "hc_lt_id_sptag": "",
+      "id_img": "NoGameNoLife_658712_crop2608_106334450",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/O+A648lbdJkY2wLRUgotoxAMoNRYaDZEUTzv0o89LJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/O+A648lbdJkY2wLRUgotOPCe//RLzyl/CGJzIH0DqZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "154391500"
+      ],
+      "list_id_nortag": [
+        "1212566397",
+        "-1692646569",
+        "-676087159",
+        "-971789334"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-466495772",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-820941223",
-      "id_img": "NoGameNoLife_818394_crop2608_1493443728",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ9h7bGcI9H0V4Gii1ukMyogVGQsp1wRKG9G80+D2hF5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZ9h7bGcI9H0V4Gii1ukMyQ1EcHrUTtmQ1m2J/RQ2kzZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "943473282",
+      "hc_lt_id_sptag": "-47238614",
+      "id_img": "NoGameNoLife_658712_crop2608_-1993673421",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidDUR39ccXE8ERL89K5zkpj+h7z86HSZU0t5VnK+P0jXJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidDUR39ccXE8ERL89K5zkpjHmUBTL4IOSURnXlJabmWLZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "154391500"
       ],
+      "list_id_nortag": [
+        "1212566397",
+        "-1692646569",
+        "-676087159",
+        "-971789334"
+      ],
       "lt_id_sptag": [
         "154003721",
+        "-143120565",
+        "-1364967268",
         "-326078627",
+        "71899412",
+        "-143534545",
         "410439701",
-        "1439812287",
         "1911583362",
-        "635218351"
+        "635218351",
+        "-143528947",
+        "-1786946560"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-971789334",
+      "name_nortag": "Clammy Zell",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-676087159",
+      "name_nortag": "Fiel Nirvalen",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1212566397",
+      "name_nortag": "Shiro No Game No Life",
+      "total_img": 141
+    },
+    {
+      "id_nortag": "-1692646569",
+      "name_nortag": "Sora No Game No Life",
+      "total_img": 66
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
     {
       "id_sptag": "410439701",
       "key_sptag": "isGirlEarsNekoAnime",
       "name_sptag": "Girls Ears Neko",
       "total": 7031
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
     },
     {
       "id_sptag": "635218351",
@@ -160,10 +161,16 @@
       "total": 25656
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
     },
     {
       "id_sptag": "-1786946560",
@@ -172,22 +179,40 @@
       "total": 1686
     },
     {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
       "id_sptag": "-14067806",
       "key_sptag": "isGirlHairSilverAnime",
       "name_sptag": "Girls Hair Silver",
       "total": 16300
     },
     {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
     },
     {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
     },
     {
       "id_sptag": "-369535327",
@@ -196,10 +221,28 @@
       "total": 11965
     },
     {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
       "id_sptag": "1439812287",
       "key_sptag": "isGirlSmileAnime",
       "name_sptag": "Girls Smile",
       "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

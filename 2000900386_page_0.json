@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "1879205794",
-  "hc_lt_data_img": "-227041122",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "568066601",
+  "hc_lt_data_img": "2062479166",
+  "hc_lt_nortag": "-226095611",
+  "hc_lt_sptag": "-1996269329",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-365719382",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "254132884",
       "hc_lt_id_sptag": "972670932",
       "id_img": "Original_844091_crop2608_-1111768848",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffFNJDeZmcWwzq9CkiMMM2Msq1GX5kSTnK1ua9GwxZFJVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,11 @@
       "lt_id_alb": [
         "68811063",
         "109656519"
+      ],
+      "list_id_nortag": [
+        "2000900386",
+        "71968",
+        "2107205243"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -43,7 +48,7 @@
     },
     {
       "hc_lt_id_alb": "-365719382",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "254132884",
       "hc_lt_id_sptag": "-2052828907",
       "id_img": "Original_844091_crop2608_1835436386",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOASsv/Mk/gwMV44izaA1LVkER2m6qyj9iwo4sHpBQQpVy4706IhQgSYlgwrgVRHU=",
@@ -51,6 +56,11 @@
       "lt_id_alb": [
         "68811063",
         "109656519"
+      ],
+      "list_id_nortag": [
+        "2000900386",
+        "71968",
+        "2107205243"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -63,12 +73,35 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2000900386",
+      "name_nortag": "Bullet",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "2107205243",
+      "name_nortag": "Flower",
+      "total_img": 497
+    },
+    {
+      "id_nortag": "71968",
+      "name_nortag": "Gun",
+      "total_img": 55
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-564636969",
-      "key_sptag": "isGirlSharpCanineToothAnime",
-      "name_sptag": "Girls Sharp Canine Tooth",
-      "total": 3202
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-143120565",
@@ -83,6 +116,12 @@
       "total": 47407
     },
     {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
+    },
+    {
       "id_sptag": "1439812287",
       "key_sptag": "isGirlSmileAnime",
       "name_sptag": "Girls Smile",
@@ -93,18 +132,6 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
     }
   ]
 }

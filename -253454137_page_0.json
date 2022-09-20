@@ -4,46 +4,26 @@
   "name_nortag": "BB FateExtra CCC",
   "total_img": 5,
   "total_page": 0,
-  "hc_lt_alb": "176365174",
-  "hc_lt_data_img": "-2038813770",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1371325374",
+  "hc_lt_alb": "-1734456724",
+  "hc_lt_data_img": "1039172180",
+  "hc_lt_nortag": "1046905168",
+  "hc_lt_sptag": "-1051466658",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "1660865703",
       "name_alb": "FateExtra CCC",
       "total_img": 7
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "675198540",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-960886620",
-      "id_img": "FateExtraCCC_830946_crop2608_-1381254440",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHvaNWuox++WCQd8HkcrgyfT5co3aPeqIddRPLjsBGtJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHvaNWuox++WCQd8HkcrgyQq04qeyQAfBQ8jLB7yh/upVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "1660865703"
-      ],
-      "lt_id_sptag": [
-        "-326078627",
-        "1600730941",
-        "1129122964",
-        "71899412",
-        "1439812287",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "675198540",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1300359300",
       "hc_lt_id_sptag": "1630304269",
       "id_img": "FateExtraCCC_833655_crop2608_-1860551984",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgl2xC7nvrCKtF4+oMmIt2buGo86NY9FF4qph4mJevCpVy4706IhQgSYlgwrgVRHU=",
@@ -51,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "1660865703"
+      ],
+      "list_id_nortag": [
+        "-253454137"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -63,7 +46,7 @@
     },
     {
       "hc_lt_id_alb": "675198540",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1300359300",
       "hc_lt_id_sptag": "-522605431",
       "id_img": "FateExtraCCC_944218_crop2608_1335600210",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR8qIH8JZxn20CAxXqGbYdrv+uT8Y/rdb4qYKAKJTKW5Vy4706IhQgSYlgwrgVRHU=",
@@ -71,6 +54,9 @@
       "lt_id_alb": [
         "68811063",
         "1660865703"
+      ],
+      "list_id_nortag": [
+        "-253454137"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -84,7 +70,31 @@
     },
     {
       "hc_lt_id_alb": "675198540",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1300359300",
+      "hc_lt_id_sptag": "1530414393",
+      "id_img": "FateExtraCCC_944254_crop2608_1853190858",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqNghPADP+zd+ARIjzWrwkbW9FM1LSyy1j/5gN8DiLpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqNghPADP+zd+ARIjzWrwFOTurq7+K/ZK1qTP7S3iq5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1660865703"
+      ],
+      "list_id_nortag": [
+        "-253454137"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "-369654561",
+        "-1436512555",
+        "-1364967268",
+        "-326078627",
+        "71899412",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "675198540",
+      "hc_lt_id_nortag": "1300359300",
       "hc_lt_id_sptag": "232215881",
       "id_img": "FateExtraCCC_944254_crop2608_1546749725",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideedHnfqOS3qP2vQVQ0oSN1AVnQtHZA2qwqiPd6O3165Vy4706IhQgSYlgwrgVRHU=",
@@ -92,6 +102,9 @@
       "lt_id_alb": [
         "68811063",
         "1660865703"
+      ],
+      "list_id_nortag": [
+        "-253454137"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -104,32 +117,41 @@
     },
     {
       "hc_lt_id_alb": "675198540",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1530414393",
-      "id_img": "FateExtraCCC_944254_crop2608_1853190858",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqNghPADP+zd+ARIjzWrwkbW9FM1LSyy1j/5gN8DiLpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietqNghPADP+zd+ARIjzWrwFOTurq7+K/ZK1qTP7S3iq5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "1300359300",
+      "hc_lt_id_sptag": "-960886620",
+      "id_img": "FateExtraCCC_830946_crop2608_-1381254440",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHvaNWuox++WCQd8HkcrgyfT5co3aPeqIddRPLjsBGtJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHvaNWuox++WCQd8HkcrgyQq04qeyQAfBQ8jLB7yh/upVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "1660865703"
       ],
+      "list_id_nortag": [
+        "-253454137"
+      ],
       "lt_id_sptag": [
-        "-1811357781",
-        "-369654561",
-        "-1436512555",
-        "-1364967268",
         "-326078627",
+        "1600730941",
+        "1129122964",
         "71899412",
+        "1439812287",
         "1911583362"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-253454137",
+      "name_nortag": "BB FateExtra CCC",
+      "total_img": 5
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
     },
     {
       "id_sptag": "1600730941",
@@ -138,46 +160,22 @@
       "total": 31431
     },
     {
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
       "id_sptag": "1129122964",
       "key_sptag": "isGirlEyesVioletAnime",
       "name_sptag": "Girls Eyes Violet",
       "total": 6410
-    },
-    {
-      "id_sptag": "71899412",
-      "key_sptag": "isGirlHairVioletAnime",
-      "name_sptag": "Girls Hair Violet",
-      "total": 2650
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
     },
     {
       "id_sptag": "1211227273",
@@ -186,10 +184,10 @@
       "total": 6605
     },
     {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
     },
     {
       "id_sptag": "-143120565",
@@ -198,10 +196,46 @@
       "total": 5690
     },
     {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
       "id_sptag": "1440489992",
       "key_sptag": "isGirlTearsAnime",
       "name_sptag": "Girls Tears",
       "total": 1511
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     },
     {
       "id_sptag": "-1811357781",
@@ -210,22 +244,10 @@
       "total": 16929
     },
     {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
-    },
-    {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

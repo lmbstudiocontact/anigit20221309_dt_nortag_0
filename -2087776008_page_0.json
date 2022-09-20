@@ -4,15 +4,15 @@
   "name_nortag": "Assassin Fatestay night",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "-1914107912",
-  "hc_lt_data_img": "774284838",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "590733531",
+  "hc_lt_alb": "119949956",
+  "hc_lt_data_img": "-1266652712",
+  "hc_lt_nortag": "1515646602",
+  "hc_lt_sptag": "-380206185",
   "lt_alb": [
     {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "224902894",
@@ -25,15 +25,15 @@
       "total_img": 15
     },
     {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-70964527",
       "hc_lt_id_sptag": "1077864461",
       "id_img": "FateGrandOrder_915462_crop2608_-1234745623",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwoqcHX2aXOfjbkNqI7AnPm5fWFGiAoMr4IYCz4eQPkJVy4706IhQgSYlgwrgVRHU=",
@@ -41,6 +41,12 @@
       "lt_id_alb": [
         "68811063",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "-1050283642",
+        "-2087776008",
+        "-1504393775",
+        "1504130335"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -55,7 +61,7 @@
     },
     {
       "hc_lt_id_alb": "-1814817378",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "2135506203",
       "hc_lt_id_sptag": "862791854",
       "id_img": "FateStayNightUnlimitedBladeWorks_815590_crop2608_641029353",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2AcMc88IR8uSO0X4ofJF//n4UJKksJgfav8QoyRp5opVy4706IhQgSYlgwrgVRHU=",
@@ -64,30 +70,73 @@
         "272273816",
         "66988"
       ],
+      "list_id_nortag": [
+        "-1093415898",
+        "-2087776008",
+        "-1769491654",
+        "1241341982",
+        "1558098172",
+        "-1500501747"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1769491654",
+      "name_nortag": "Archer FateStay Night",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-2087776008",
+      "name_nortag": "Assassin Fatestay night",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "1558098172",
+      "name_nortag": "Gilgamesh Fate Series",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "1241341982",
+      "name_nortag": "Illyasviel Von Einzbern",
+      "total_img": 27
+    },
+    {
+      "id_nortag": "-1093415898",
+      "name_nortag": "Lancer FateStay Night",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1504130335",
+      "name_nortag": "Miyamoto Musashi",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1500501747",
+      "name_nortag": "Shirou Emiya",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-1050283642",
+      "name_nortag": "Shuten Douji",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1504393775",
+      "name_nortag": "Tomoe Gozen FateGrand Order",
+      "total_img": 17
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
-    },
-    {
-      "id_sptag": "1429721863",
-      "key_sptag": "isGirlHornsAnime",
-      "name_sptag": "Girls Horns",
-      "total": 2031
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
     },
     {
       "id_sptag": "-1364967268",
@@ -96,16 +145,34 @@
       "total": 12697
     },
     {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
       "id_sptag": "-143380300",
       "key_sptag": "isGirlHairGreyAnime",
       "name_sptag": "Girls Hair Grey",
       "total": 9239
     },
     {
+      "id_sptag": "1429721863",
+      "key_sptag": "isGirlHornsAnime",
+      "name_sptag": "Girls Horns",
+      "total": 2031
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1439812287",
@@ -124,12 +191,6 @@
       "key_sptag": "isSad",
       "name_sptag": "Sad",
       "total": 12057
-    },
-    {
-      "id_sptag": "1736318786",
-      "key_sptag": "isBoySad",
-      "name_sptag": "Boy Sad",
-      "total": 1551
     }
   ]
 }

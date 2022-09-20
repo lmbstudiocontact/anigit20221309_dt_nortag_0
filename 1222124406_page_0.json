@@ -4,26 +4,26 @@
   "name_nortag": "Bepo One Piece",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "-1305435413",
-  "hc_lt_data_img": "-532814213",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-2046064489",
+  "hc_lt_data_img": "2146420981",
+  "hc_lt_nortag": "35652003",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "2112395380",
-      "name_alb": "One Piece",
-      "total_img": 283
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "2112395380",
+      "name_alb": "One Piece",
+      "total_img": 283
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1929700190",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1815548713",
       "hc_lt_id_sptag": "",
       "id_img": "OnePiece_165013_crop2608_-1493456501",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+fCD0mhxIGwlSqV9yFbdKFdjzFuCcI4iB8hxfpzHjbpVy4706IhQgSYlgwrgVRHU=",
@@ -31,11 +31,17 @@
       "lt_id_alb": [
         "2112395380",
         "66988"
+      ],
+      "list_id_nortag": [
+        "1383698700",
+        "-1643022489",
+        "1222124406",
+        "1701816780"
       ]
     },
     {
       "hc_lt_id_alb": "1929700190",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2026433390",
       "hc_lt_id_sptag": "",
       "id_img": "OnePiece_864470_crop2608_-1235808128",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifywXWUzya0Cz6NWF6RgisegJOco0PeUF8V7sVc58pIfpVy4706IhQgSYlgwrgVRHU=",
@@ -43,7 +49,33 @@
       "lt_id_alb": [
         "2112395380",
         "66988"
+      ],
+      "list_id_nortag": [
+        "1222124406",
+        "1701816780"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1222124406",
+      "name_nortag": "Bepo One Piece",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-1643022489",
+      "name_nortag": "Monkey D Luffy",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "1383698700",
+      "name_nortag": "Roronoa Zoro",
+      "total_img": 75
+    },
+    {
+      "id_nortag": "1701816780",
+      "name_nortag": "Trafalgar Law",
+      "total_img": 26
     }
   ]
 }

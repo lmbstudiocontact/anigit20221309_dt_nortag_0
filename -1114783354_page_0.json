@@ -4,15 +4,20 @@
   "name_nortag": "Enkidu FateGrand Order",
   "total_img": 6,
   "total_page": 0,
-  "hc_lt_alb": "1638688804",
-  "hc_lt_data_img": "-884964760",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1171804138",
+  "hc_lt_alb": "1431272442",
+  "hc_lt_data_img": "2039599080",
+  "hc_lt_nortag": "1230179098",
+  "hc_lt_sptag": "1705224442",
   "lt_alb": [
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
     },
     {
       "id_alb": "224902894",
@@ -23,58 +28,38 @@
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
-    },
-    {
-      "id_alb": "2024260576",
-      "name_alb": "Couple",
-      "total_img": 2059
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-1051320556",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "125975109",
+      "hc_lt_id_nortag": "-706908104",
       "hc_lt_id_sptag": "",
-      "id_img": "FateGrandOrder_859850_crop2608_1889109688",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehoD1B9HJYPKEyG+i2R2I+pcqZEkNDFidI2iT50hK2SJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehoD1B9HJYPKEyG+i2R2I+yXw+WMZ1tInspuJoUOvku5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "FateGrandOrder_968410_crop2608_-1475135122",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKftBlHZQYZpPV/D2N65eHf+AF9eZQ9FIzJKeg1pEN/ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKftBlHZQYZpPV/D2N65eHmdhYUDI9d9lkp6MCjOKekpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "66988",
-        "224902894"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1051320556",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FateGrandOrder_859850_crop2608_552103514",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflY1RmW/+KjKEXD7q2QAlccYX00eJjVRFxPvXVif8ODpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflY1RmW/+KjKEXD7q2QAlcHHl8kNdYH84rxFgvNs3wcpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "66988",
-        "224902894"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "89545574",
-      "id_img": "FateGrandOrder_865870_crop2608_-1620114595",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezBh/AG5dftPj72dVLuQsfsVLOOKSeTfPo418VD36LQpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezBh/AG5dftPj72dVLuQsft5cEpCOVR+TRKd92Qyat6pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
+        "2024260576",
         "224902894"
       ],
-      "lt_id_sptag": [
-        "1211227273",
-        "-326078627",
-        "-143534545"
+      "list_id_nortag": [
+        "-161814699",
+        "-1847389962",
+        "-1950390251",
+        "1992679946",
+        "2068553130",
+        "64445132",
+        "963534939",
+        "-1114783354",
+        "1558098172",
+        "79698405",
+        "79944435",
+        "80800667"
       ]
     },
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1363187055",
       "hc_lt_id_sptag": "-2124745635",
       "id_img": "FateGrandOrder_918744_crop2608_1115736250",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierPIGdrdVWHYBEW+wWczsVItLkHgd2vVJIB2p19mZCVJVy4706IhQgSYlgwrgVRHU=",
@@ -82,6 +67,9 @@
       "lt_id_alb": [
         "68811063",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "-1114783354"
       ],
       "lt_id_sptag": [
         "-326078627",
@@ -92,19 +80,7 @@
     },
     {
       "hc_lt_id_alb": "125975109",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FateGrandOrder_968410_crop2608_-1475135122",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKftBlHZQYZpPV/D2N65eHf+AF9eZQ9FIzJKeg1pEN/ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKftBlHZQYZpPV/D2N65eHmdhYUDI9d9lkp6MCjOKekpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2024260576",
-        "224902894"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "125975109",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-706908104",
       "hc_lt_id_sptag": "",
       "id_img": "FateGrandOrder_968410_crop2608_1219744987",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDofkZkC8ATbG5Ky7yilE0AOvTeacU33zFRqbspHVL1JVy4706IhQgSYlgwrgVRHU=",
@@ -112,21 +88,149 @@
       "lt_id_alb": [
         "2024260576",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "-161814699",
+        "-1847389962",
+        "-1950390251",
+        "1992679946",
+        "2068553130",
+        "64445132",
+        "963534939",
+        "-1114783354",
+        "1558098172",
+        "79698405",
+        "79944435",
+        "80800667"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1051320556",
+      "hc_lt_id_nortag": "-1272117227",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateGrandOrder_859850_crop2608_1889109688",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehoD1B9HJYPKEyG+i2R2I+pcqZEkNDFidI2iT50hK2SJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiehoD1B9HJYPKEyG+i2R2I+yXw+WMZ1tInspuJoUOvku5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "224902894"
+      ],
+      "list_id_nortag": [
+        "-1114783354",
+        "1558098172"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1251049526",
+      "hc_lt_id_nortag": "1363187055",
+      "hc_lt_id_sptag": "89545574",
+      "id_img": "FateGrandOrder_865870_crop2608_-1620114595",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezBh/AG5dftPj72dVLuQsfsVLOOKSeTfPo418VD36LQpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezBh/AG5dftPj72dVLuQsft5cEpCOVR+TRKd92Qyat6pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "224902894"
+      ],
+      "list_id_nortag": [
+        "-1114783354"
+      ],
+      "lt_id_sptag": [
+        "1211227273",
+        "-326078627",
+        "-143534545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1051320556",
+      "hc_lt_id_nortag": "-1272117227",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateGrandOrder_859850_crop2608_552103514",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflY1RmW/+KjKEXD7q2QAlccYX00eJjVRFxPvXVif8ODpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflY1RmW/+KjKEXD7q2QAlcHHl8kNdYH84rxFgvNs3wcpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "224902894"
+      ],
+      "list_id_nortag": [
+        "-1114783354",
+        "1558098172"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "64445132",
+      "name_nortag": "Braid",
+      "total_img": 149
+    },
+    {
+      "id_nortag": "2068553130",
+      "name_nortag": "Eating",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "-1114783354",
+      "name_nortag": "Enkidu FateGrand Order",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-1950390251",
+      "name_nortag": "Ereshkigal FateGrand Order",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "1558098172",
+      "name_nortag": "Gilgamesh Fate Series",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "-161814699",
+      "name_nortag": "Ishtar FateGrand Order",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "963534939",
+      "name_nortag": "Pantyhose",
+      "total_img": 89
+    },
+    {
+      "id_nortag": "-1847389962",
+      "name_nortag": "Ribbon",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "79698405",
+      "name_nortag": "Scarf",
+      "total_img": 169
+    },
+    {
+      "id_nortag": "79944435",
+      "name_nortag": "Skirt",
+      "total_img": 368
+    },
+    {
+      "id_nortag": "80800667",
+      "name_nortag": "Tiara",
+      "total_img": 6
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
     {
       "id_sptag": "1211227273",
       "key_sptag": "isGirlEyesYellowAnime",
       "name_sptag": "Girls Eyes Yellow",
       "total": 6605
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
     },
     {
       "id_sptag": "-143534545",
@@ -135,16 +239,16 @@
       "total": 9528
     },
     {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
       "id_sptag": "1439812287",
       "key_sptag": "isGirlSmileAnime",
       "name_sptag": "Girls Smile",
       "total": 24284
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
     }
   ]
 }

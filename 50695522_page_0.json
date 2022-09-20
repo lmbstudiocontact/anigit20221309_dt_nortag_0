@@ -4,110 +4,45 @@
   "name_nortag": "Fubuki OnePunch Man",
   "total_img": 9,
   "total_page": 0,
-  "hc_lt_alb": "1997191293",
-  "hc_lt_data_img": "-878800016",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-102642334",
+  "hc_lt_alb": "850930245",
+  "hc_lt_data_img": "-980896511",
+  "hc_lt_nortag": "-1983984377",
+  "hc_lt_sptag": "-1035465472",
   "lt_alb": [
-    {
-      "id_alb": "-201118814",
-      "name_alb": "OnePunch Man",
-      "total_img": 52
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-201118814",
+      "name_alb": "OnePunch Man",
+      "total_img": 52
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-688220856",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "OnePunchMan_656715_crop2608_997080355",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZp+AQ3Hj7Rq8sFZFN5unDxxU7Al9M7BHTciR9IsrqiJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZp+AQ3Hj7Rq8sFZFN5unDaCNEIv6CF4NsYZVaVhqpYpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201118814"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-688220856",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "OnePunchMan_660725_crop2608_-1233680356",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep9QVEb0yRLACU4oaTWkdfmLDseN9ayWAnUU7vmmfYv5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep9QVEb0yRLACU4oaTWkdfmqp6ZWAdmlSh4FmWEmn8uJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201118814"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-688220856",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "OnePunchMan_660725_crop2608_-2103684311",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBf9tQIpsYqxCvOj1qEHBE1W4fGghPZxWwQQRlvZkYyZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBf9tQIpsYqxCvOj1qEHBESxsP8zpU1YsL3aUed2aLUJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201118814"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-688220856",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "OnePunchMan_660725_crop2608_1329541129",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiez2/QBy01+8h+1EHTBIpTRAf+/e6HgmsWh8FCAAslyD5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiez2/QBy01+8h+1EHTBIpTRxVv/hAMoCCqEqpTkUMSNJ5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201118814"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1083219213",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1071588505",
-      "id_img": "OnePunchMan_662309_crop2608_973433225",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiife3En4ZQVFzjiRnbOTD/uzYa4bxe1dGBmnBDtKqdhRjpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiife3En4ZQVFzjiRnbOTD/uzwww11Lbno0YFPm9Y3ez7dpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-201118814"
-      ],
-      "lt_id_sptag": [
-        "-154622774",
-        "-2139213873",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-688220856",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "OnePunchMan_662808_crop2608_-144411291",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqVe3PpHXw9ywb4I0wGMHAI1mONB00RDGyeV/AgrKg5JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqVe3PpHXw9ywb4I0wGMHA/1MIrC2Yf0aMLZ9vTk5VfpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-201118814"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-688220856",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-792091219",
       "hc_lt_id_sptag": "",
       "id_img": "OnePunchMan_662808_crop2608_1937462605",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmjh5d/J5gfhKrue3W2oXV2fZEmmYOHoN2tkCGnLW4spVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmjh5d/J5gfhKrue3W2oXVzxT4GlL4KXLA/gaWMjHjqJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-201118814"
+      ],
+      "list_id_nortag": [
+        "1207210566",
+        "1968194350",
+        "2017554158",
+        "-519350777",
+        "-1714917066",
+        "50695522"
       ]
     },
     {
       "hc_lt_id_alb": "-1083219213",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-869582691",
       "hc_lt_id_sptag": "1071588505",
       "id_img": "OnePunchMan_672617_crop2608_663252650",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif5cQjdRrZxRN3SEsU3c17T8jburQFiImZwZVOr18OfopVy4706IhQgSYlgwrgVRHU=",
@@ -116,6 +51,30 @@
         "68811063",
         "-201118814"
       ],
+      "list_id_nortag": [
+        "50695522"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "-2139213873",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1083219213",
+      "hc_lt_id_nortag": "-869582691",
+      "hc_lt_id_sptag": "1071588505",
+      "id_img": "OnePunchMan_662309_crop2608_973433225",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiife3En4ZQVFzjiRnbOTD/uzYa4bxe1dGBmnBDtKqdhRjpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiife3En4ZQVFzjiRnbOTD/uzwww11Lbno0YFPm9Y3ez7dpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-201118814"
+      ],
+      "list_id_nortag": [
+        "50695522"
+      ],
       "lt_id_sptag": [
         "-154622774",
         "-2139213873",
@@ -125,17 +84,183 @@
     },
     {
       "hc_lt_id_alb": "-688220856",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-761306659",
+      "hc_lt_id_sptag": "",
+      "id_img": "OnePunchMan_660725_crop2608_1329541129",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiez2/QBy01+8h+1EHTBIpTRAf+/e6HgmsWh8FCAAslyD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiez2/QBy01+8h+1EHTBIpTRxVv/hAMoCCqEqpTkUMSNJ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201118814"
+      ],
+      "list_id_nortag": [
+        "1207210566",
+        "1968194350",
+        "2017554158",
+        "-519350777",
+        "-1714917066",
+        "1924640516",
+        "50695522"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-688220856",
+      "hc_lt_id_nortag": "-792091219",
+      "hc_lt_id_sptag": "",
+      "id_img": "OnePunchMan_656715_crop2608_997080355",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZp+AQ3Hj7Rq8sFZFN5unDxxU7Al9M7BHTciR9IsrqiJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZp+AQ3Hj7Rq8sFZFN5unDaCNEIv6CF4NsYZVaVhqpYpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201118814"
+      ],
+      "list_id_nortag": [
+        "1207210566",
+        "1968194350",
+        "2017554158",
+        "-519350777",
+        "-1714917066",
+        "50695522"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-688220856",
+      "hc_lt_id_nortag": "-761306659",
+      "hc_lt_id_sptag": "",
+      "id_img": "OnePunchMan_660725_crop2608_-2103684311",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBf9tQIpsYqxCvOj1qEHBE1W4fGghPZxWwQQRlvZkYyZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBf9tQIpsYqxCvOj1qEHBESxsP8zpU1YsL3aUed2aLUJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201118814"
+      ],
+      "list_id_nortag": [
+        "1207210566",
+        "1968194350",
+        "2017554158",
+        "-519350777",
+        "-1714917066",
+        "1924640516",
+        "50695522"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-688220856",
+      "hc_lt_id_nortag": "-761306659",
+      "hc_lt_id_sptag": "",
+      "id_img": "OnePunchMan_660725_crop2608_-1233680356",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep9QVEb0yRLACU4oaTWkdfmLDseN9ayWAnUU7vmmfYv5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiep9QVEb0yRLACU4oaTWkdfmqp6ZWAdmlSh4FmWEmn8uJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201118814"
+      ],
+      "list_id_nortag": [
+        "1207210566",
+        "1968194350",
+        "2017554158",
+        "-519350777",
+        "-1714917066",
+        "1924640516",
+        "50695522"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-688220856",
+      "hc_lt_id_nortag": "516988919",
       "hc_lt_id_sptag": "",
       "id_img": "OnePunchMan_682569_crop2608_-1072096185",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjEtXq+Z4jHxMMnLQP2fR+9AJ1dU1YO7Fin/DUhGJUK5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjEtXq+Z4jHxMMnLQP2fR+w3tXti5+2gN90k366/q7NpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-201118814"
+      ],
+      "list_id_nortag": [
+        "-765979987",
+        "2032928984",
+        "1207210566",
+        "1968194350",
+        "-519350777",
+        "808351813",
+        "-1714917066",
+        "50695522"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-688220856",
+      "hc_lt_id_nortag": "-792091219",
+      "hc_lt_id_sptag": "",
+      "id_img": "OnePunchMan_662808_crop2608_-144411291",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqVe3PpHXw9ywb4I0wGMHAI1mONB00RDGyeV/AgrKg5JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqVe3PpHXw9ywb4I0wGMHA/1MIrC2Yf0aMLZ9vTk5VfpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-201118814"
+      ],
+      "list_id_nortag": [
+        "1207210566",
+        "1968194350",
+        "2017554158",
+        "-519350777",
+        "-1714917066",
+        "50695522"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "808351813",
+      "name_nortag": "Baseball Bat",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "2032928984",
+      "name_nortag": "Cyborg",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "50695522",
+      "name_nortag": "Fubuki OnePunch Man",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "1968194350",
+      "name_nortag": "Genos OnePunch Man",
+      "total_img": 26
+    },
+    {
+      "id_nortag": "-765979987",
+      "name_nortag": "Glowing Eyes",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "1924640516",
+      "name_nortag": "Lord Boros OnePunch Man",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1207210566",
+      "name_nortag": "Saitama OnePunch Man",
+      "total_img": 32
+    },
+    {
+      "id_nortag": "-1714917066",
+      "name_nortag": "Sonic OnePunch Man",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "-519350777",
+      "name_nortag": "Tatsumaki OnePunch Man",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "2017554158",
+      "name_nortag": "Zombieman OnePunch Man",
+      "total_img": 8
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
     {
       "id_sptag": "-154622774",
       "key_sptag": "isGirlHairBlackAnime",
@@ -153,12 +278,6 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
     }
   ]
 }

@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "252066643",
-  "hc_lt_data_img": "1135929481",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "662821117",
+  "hc_lt_nortag": "93201698",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "925140470",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2044488948",
       "hc_lt_id_sptag": "",
       "id_img": "TrinitySeven_924546_crop2608_1303304459",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMpZ0lm+WWoQ5/7Zew2E6fDEWYZFAw/2Hhre77mXDhRpVy4706IhQgSYlgwrgVRHU=",
@@ -31,7 +31,17 @@
       "lt_id_alb": [
         "66988",
         "-675416808"
+      ],
+      "list_id_nortag": [
+        "2137690645"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2137690645",
+      "name_nortag": "Arata Kasuga",
+      "total_img": 1
     }
   ]
 }

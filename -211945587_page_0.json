@@ -5,8 +5,8 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-504378085",
-  "hc_lt_data_img": "-536769586",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1333712098",
+  "hc_lt_nortag": "-416469957",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,29 +23,25 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-690970182",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_47536_crop2608_737616850",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4cGg+7I2tBpYyYck1d5ZUVWYNsKGNXkl9r8JkKyRT45Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4cGg+7I2tBpYyYck1d5ZUIqeYimMcr9IIXbx9fEYvBZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1889453114"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "NeonGenesisEvangelion_732455_crop2608_1718034725",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6t7szgZVYt8Vsyhf44bdj7eOR2rphIdfyDxHrkIEt8ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6t7szgZVYt8Vsyhf44bdjvD70G1gyy/9tpLYjDvt5M5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1889453114"
+      ],
+      "list_id_nortag": [
+        "-252268361",
+        "-211945587",
+        "-1801101198",
+        "552327022",
+        "-746251249"
       ]
     },
     {
       "hc_lt_id_alb": "416783510",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1788034144",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_829486_crop2608_-554907526",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiduRWUASgz5NH4jzPPCMfjGWydVmEUGPvtoAFYnKxeZKpVy4706IhQgSYlgwrgVRHU=",
@@ -53,11 +49,29 @@
       "lt_id_alb": [
         "505986750",
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "-211945587",
+        "-211945586"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "223001737",
+      "hc_lt_id_nortag": "1286301214",
+      "hc_lt_id_sptag": "",
+      "id_img": "NeonGenesisEvangelion_850235_crop2608_-71139576",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5JjEIZ5Zp6W5z08n/S2yrCXdC0oqpEnVHSfWjv5HWBZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5JjEIZ5Zp6W5z08n/S2yrbzsFDv0I5nfGpus4FuGHJ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1889453114"
+      ],
+      "list_id_nortag": [
+        "-211945587"
       ]
     },
     {
       "hc_lt_id_alb": "416783510",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1536999621",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_837568_crop2608_1689279682",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieK4AblF9zK6amO4bjCaIu9T208Ce4KGljoEevDMRpoE5Vy4706IhQgSYlgwrgVRHU=",
@@ -65,29 +79,84 @@
       "lt_id_alb": [
         "505986750",
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "-252268361",
+        "-211945587",
+        "-211945586",
+        "552327022",
+        "-746251249"
       ]
     },
     {
       "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1286301214",
       "hc_lt_id_sptag": "",
       "id_img": "NeonGenesisEvangelion_850230_crop2608_981035971",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+R9C5tQWxi3Bww0uY+SRSSv+aFSBqFwWilATiHnTv+JVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+R9C5tQWxi3Bww0uY+SRS6bAQsK7UXNQkOzFj8GpcF5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "-211945587"
       ]
     },
     {
       "hc_lt_id_alb": "223001737",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1837349409",
       "hc_lt_id_sptag": "",
-      "id_img": "NeonGenesisEvangelion_850235_crop2608_-71139576",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5JjEIZ5Zp6W5z08n/S2yrCXdC0oqpEnVHSfWjv5HWBZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5JjEIZ5Zp6W5z08n/S2yrbzsFDv0I5nfGpus4FuGHJ5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "NeonGenesisEvangelion_732455_crop2608_1718034725",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6t7szgZVYt8Vsyhf44bdj7eOR2rphIdfyDxHrkIEt8ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6t7szgZVYt8Vsyhf44bdjvD70G1gyy/9tpLYjDvt5M5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1889453114"
+      ],
+      "list_id_nortag": [
+        "-252268361",
+        "-211945587",
+        "-211945586",
+        "552327022",
+        "79133258",
+        "-746251249"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-252268361",
+      "name_nortag": "Asuka Langley Sohryu",
+      "total_img": 68
+    },
+    {
+      "id_nortag": "-211945587",
+      "name_nortag": "Evangelion Unit01",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-211945586",
+      "name_nortag": "Evangelion Unit02",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1801101198",
+      "name_nortag": "Kaworu Nagisa",
+      "total_img": 16
+    },
+    {
+      "id_nortag": "552327022",
+      "name_nortag": "Rei Ayanami",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "79133258",
+      "name_nortag": "Robot",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "-746251249",
+      "name_nortag": "Shinji Ikari",
+      "total_img": 24
     }
   ]
 }
